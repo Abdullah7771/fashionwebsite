@@ -1,0 +1,98 @@
+#heading1{
+    text-align: center;
+    justify-content: center;
+    text-shadow: 2px 2px 4px black;
+    margin-top: 30px;
+}   
+.navbar{
+    background-color: #393A3C !important;
+}
+.nav-link{
+    color: white !important;
+    font-weight: bold;
+}
+.nav-item{
+    margin-left: 15px;
+}
+.fa-shopping-cart{
+   
+    color: white;
+    margin-top: 10px;
+    font-size: 20px;
+    
+}
+.fa-home,.fa-headphones,.fa-thumbs-up{
+    font-size: 50px !important;
+    margin-right: 10px;
+    color: #393A3C;
+}
+h3{
+    color:  #393A3C;
+}
+.card1,.card2,.card3{
+    display:flex !important;
+    width: 350px;
+    height: 80px ; 
+    background-color: white;
+    box-shadow: 2px 4px 5px grey;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;   
+  }
+.mainCard{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+@media screen and (max-width:600px){
+    .card1,.card2,.card3{
+        width: 100%;
+    }
+}
+    
+            
+          
+        
+        
+    #heading1{
+        text-align: center;
+        justify-content: center;
+        text-shadow: 2px 2px 4px black;
+        margin-top: 30px;
+    }   
+    
+
+
+.newArrivals{
+    margin-top: 50px;
+  
+
+    
+   
+}
+.card{
+    width: 200px !important;
+    position: relative;
+    margin-bottom: 20px;
+    
+}
+          
+.btn-primary{
+    width: 100%;
+    
+}
+#seemore{
+    margin-left: 250px;
+    margin-top: -100px;
+
+}
+footer>div{
+    color: white !important;
+    
+  }
+  footer{
+      /* width: 1500px !important; */
+  }
